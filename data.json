@@ -1,12 +1,10 @@
-{
-    "usermanager":[
-            {
-              "name": "admin",
-              "psw": "admin",
-            },
-            {
-              "name": "root",
-              "psw": "root",
-            }
-          ]
-}
+[
+  {
+    "name": "admin",
+    "psw": "admin"
+  },
+  {
+    "name": "root",
+    "psw": "root"
+  }
+]
